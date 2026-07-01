@@ -1,0 +1,5 @@
+node_modules
+.spm
+.agent
+package-lock.json
+*.log

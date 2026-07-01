@@ -1,0 +1,21 @@
+{
+  "name": "spm-cli",
+  "version": "0.1.0",
+  "type": "module",
+  "bin": {
+    "spm": "./bin/spm.js"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "scripts": {
+    "test": "node --test tests/*.test.js"
+  },
+  "dependencies": {
+    "commander": "^12.0.0",
+    "chalk": "^5.3.0",
+    "prompts": "^2.4.2",
+    "ora": "^8.0.1",
+    "gray-matter": "^4.0.3"
+  }
+}
