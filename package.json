@@ -1,9 +1,9 @@
 {
-  "name": "spm-cli",
+  "name": "spm-skills-cli",
   "version": "0.1.0",
   "type": "module",
   "bin": {
-    "spm": "./bin/spm.js"
+    "spm": "bin/spm.js"
   },
   "engines": {
     "node": ">=18"
