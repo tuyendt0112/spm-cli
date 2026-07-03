@@ -1,6 +1,26 @@
 {
   "name": "spm-skills-cli",
-  "version": "0.1.0",
+  "version": "0.1.1",
+  "description": "A CLI tool to manage, create, and sync AI Agent Skills",
+  "keywords": [
+    "spm",
+    "skills",
+    "cli",
+    "ai",
+    "agent",
+    "mcp",
+    "gemini",
+    "tool"
+  ],
+  "homepage": "https://github.com/tuyendt0112/spm-cli#readme",
+  "bugs": {
+    "url": "https://github.com/tuyendt0112/spm-cli/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tuyendt0112/spm-cli.git"
+  },
+  "license": "MIT",
   "type": "module",
   "bin": {
     "spm": "bin/spm.js"
